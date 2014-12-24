@@ -1,0 +1,15 @@
+c:\users\avieira\documents\visual studio 2010\Projects\TestProblem\TestProblem\bin\Debug\TestProblem.exe
+c:\users\avieira\documents\visual studio 2010\Projects\TestProblem\TestProblem\bin\Debug\TestProblem.pdb
+c:\users\avieira\documents\visual studio 2010\Projects\TestProblem\TestProblem\obj\x86\Debug\TestProblem.TestProblem.resources
+c:\users\avieira\documents\visual studio 2010\Projects\TestProblem\TestProblem\obj\x86\Debug\TestProblem.Properties.Resources.resources
+c:\users\avieira\documents\visual studio 2010\Projects\TestProblem\TestProblem\obj\x86\Debug\TestProblem.csproj.GenerateResource.Cache
+c:\users\avieira\documents\visual studio 2010\Projects\TestProblem\TestProblem\obj\x86\Debug\TestProblem.exe
+c:\users\avieira\documents\visual studio 2010\Projects\TestProblem\TestProblem\obj\x86\Debug\TestProblem.pdb
+C:\Users\Micheli\Downloads\TestProblem\TestProblem\obj\x86\Debug\TestProblem.exe
+C:\Users\Micheli\Downloads\TestProblem\TestProblem\obj\x86\Debug\TestProblem.pdb
+C:\Users\Micheli\Downloads\TestProblem\TestProblem\bin\Debug\TestProblem.exe
+C:\Users\Micheli\Downloads\TestProblem\TestProblem\bin\Debug\TestProblem.pdb
+C:\Users\Micheli\Downloads\TestProblem\TestProblem\obj\x86\Debug\TestProblem.csprojResolveAssemblyReference.cache
+C:\Users\Micheli\Downloads\TestProblem\TestProblem\obj\x86\Debug\TestProblem.TestProblem.resources
+C:\Users\Micheli\Downloads\TestProblem\TestProblem\obj\x86\Debug\TestProblem.Properties.Resources.resources
+C:\Users\Micheli\Downloads\TestProblem\TestProblem\obj\x86\Debug\TestProblem.csproj.GenerateResource.Cache
